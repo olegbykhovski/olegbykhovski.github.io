@@ -1,0 +1,89 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+  
+  /** HEADER **/
+  header {
+    background-color: #fff;
+    color: #333;
+    padding: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 3px solid green;
+   }
+
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+
+  
+  main {
+    font-family: 'Oxygen', sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 3px solid green;
+  
+  }
+  
+
+  .content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image: url('background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .contact-info {
+    margin-top: 10px;
+    color: #fff;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a.contact-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+
+
+  footer {
+    background-color: #f9f9f9;
+    text-align: center;
+    border: 3px solid green;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    
+  }
+
+  .payment-symbols {
+    margin-top: 10px;
+  }
+  
